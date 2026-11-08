@@ -1,5 +1,8 @@
 # Network Security Scanner & Firewall Visualizer
 
+**Student:** Muhammad Ahsan Ashfaq  
+**Roll No:** 03-134231-036
+
 A web-based tool built with Python (Flask) and HTML/CSS/JavaScript. It does three things:
 - Scans an IP address, hostname or small local network for **open ports, services and possible vulnerabilities**.
 - Lets you create **firewall rules** (allow/deny) and simulates which traffic gets through, checking rules in priority order.
